@@ -87,6 +87,7 @@ and representations, since requirement formats vary significantly across differe
 ---
 ## Drive link consisting PPT and Video:
 
+https://drive.google.com/drive/folders/1E0lgmHURXRtEWDZYwwreFgklD8Gu9s1q?usp=sharing
 
 
 
