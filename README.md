@@ -89,6 +89,9 @@ and representations, since requirement formats vary significantly across differe
 
 https://drive.google.com/drive/folders/1E0lgmHURXRtEWDZYwwreFgklD8Gu9s1q?usp=sharing
 
+## deployement link of BASE44 version of it:
+https://tender-insight-flow.base44.app
+
 
 
 © 2026 AccordLabs | Built for [MSSPECTRA HACKATHON]
