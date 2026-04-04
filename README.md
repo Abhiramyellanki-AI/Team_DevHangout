@@ -5,7 +5,7 @@ AccordLabs is an intelligent data extraction and normalization platform designed
 ---
 
 ## 🚀 Live Demo
-accord-labs.vercel.app
+https://accord-labs.vercel.app/
 
 ---
 
